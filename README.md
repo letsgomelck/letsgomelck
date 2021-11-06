@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hello! 👋
 
 I'm Tony, Huiyu Wang, Year 3 bachelor of information technology student at RMIT University
 
