@@ -26,11 +26,6 @@ A love of life, the desire for freedom, and a great love of full-stack developme
       this work inspired by: <br> 
       [Uniswap](https://github.com/Uniswap)<br>
       [Quickswap](https://github.com/QuickSwap/quickswap-core)<br>
-- <br>
-
-      - Sprint Boot + COVID-19 testing sites waiting time platform.<br> 
-      this work inspired by: <br> 
-      [Where to get tested for COVID-19](https://www.coronavirus.vic.gov.au/where-get-tested-covid-19#testing-site-wait-times)<br> 
 
 - 📫 How to reach me: <br>
       Email me:huiyu.wang@outlook.com.au<br>
