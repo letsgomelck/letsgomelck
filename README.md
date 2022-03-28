@@ -21,8 +21,7 @@ I'm Tony(Huiyu) Wang, Year 3 bachelor of information technology student at RMIT 
 <br>
 A love of life, the desire for freedom, and a great love of full-stack development of web 3.0 up-and-comer letsgomelck
 
-- 🔭 I’m currently working on 
-- <br>
+- 🔭 I’m currently working on <br>
 
       - Spendie dApp + base on ERC-20 Token Standard stable coin.<br> 
       this work inspired by: <br> 
