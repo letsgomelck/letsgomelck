@@ -21,7 +21,15 @@ I'm Tony(Huiyu) Wang, Year 3 bachelor of information technology student at RMIT 
 <br>
 A love of life, the desire for freedom, and a great love of full-stack development of web 3.0 up-and-comer letsgomelck
 
-- 🔭 I’m currently working on <br>
+- 🔭 I’m currently working on 
+- <br>
+
+      - Spendie dApp + base on ERC-20 Token Standard stable coin.<br> 
+      this work inspired by: <br> 
+      [Uniswap](https://github.com/Uniswap)<br>
+      [Quickswap](https://github.com/QuickSwap/quickswap-core)<br>
+- <br>
+
       - Sprint Boot + COVID-19 testing sites waiting time platform.<br> 
       this work inspired by: <br> 
       [Where to get tested for COVID-19](https://www.coronavirus.vic.gov.au/where-get-tested-covid-19#testing-site-wait-times)<br> 
