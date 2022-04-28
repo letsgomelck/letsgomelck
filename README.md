@@ -59,9 +59,9 @@ A love of life, the desire for freedom, and a great love of full-stack developme
 
 
 
-[![tony(huiuy) Wang's github stats](https://github-readme-stats.vercel.app/api?username=shengxinjing)](https://github.com/anuraghazra/github-readme-stats)
+[![tony(huiuy) Wang's github stats](https://github-readme-stats.vercel.app/api?username=letsgomelck)](https://github.com/letsgomelck/github-readme-stats)
 
-<img height="150" src="https://pandafe.gitee.io/clock/img/wechat1.jpg" />
+<img height="150" src="https://github.com/letsgomelck/Picsee/blob/main/Picsee/amway.PNG" />
 <!--
 **tony/huiyu wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
