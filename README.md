@@ -46,7 +46,7 @@ A love of life, the desire for freedom, and a great love of full-stack developme
       
 
 - 🔖 Now reading:<br>
-      [<Javascript The Definitive Guide>](https://github.com/ten-ltw/JavaScript-The-Definitive-Guide-7th-zh)
+      [Javascript The Definitive Guide](https://github.com/ten-ltw/JavaScript-The-Definitive-Guide-7th-zh)
 
 #### Github Stats:
 [![tony(huiuy) Wang's github stats](https://github-readme-stats.vercel.app/api?username=letsgomelck)](https://github.com/letsgomelck/github-readme-stats)
