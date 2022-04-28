@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://visitor-badge.glitch.me/badge?page_id=letsgmelck)
+![letsgomelck](https://visitor-badge.glitch.me/badge?page_id=letsgmelck)
 
 <!--
 **letsgomelck/letsgomelck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -45,7 +45,8 @@ A love of life, the desire for freedom, and a great love of full-stack developme
       Email me:huiyu.wang@outlook.com.au<br>
 
 #### Github Stats:
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=letsgomelck&show_icons=true&theme=radical)
+[![tony(huiuy) Wang's github stats](https://github-readme-stats.vercel.app/api?username=letsgomelck)](https://github.com/letsgomelck/github-readme-stats)
+![tony's github stats](https://github-readme-stats.vercel.app/api?username=letsgomelck&show_icons=true&theme=radical)
 
 #### Most Language I used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letsgomelck&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -61,7 +62,7 @@ A love of life, the desire for freedom, and a great love of full-stack developme
 
 
 
-[![tony(huiuy) Wang's github stats](https://github-readme-stats.vercel.app/api?username=letsgomelck)](https://github.com/letsgomelck/github-readme-stats)
+
 
 <img height="150" src="https://github.com/letsgomelck/Picsee/blob/main/Picsee/amway.PNG" />
 <!--
