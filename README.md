@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://visitor-badge.glitch.me/badge?page_id=letsgmelck)
 
 <!--
 **letsgomelck/letsgomelck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -53,7 +54,7 @@ A love of life, the desire for freedom, and a great love of full-stack developme
 
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=letsgmelck)
+
 
 
 
